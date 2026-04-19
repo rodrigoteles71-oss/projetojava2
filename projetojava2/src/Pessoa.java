@@ -1,13 +1,11 @@
 package curso.java.Rodrigo;
 
 public class Pessoa {
-	
+
 	private String nome;
-	
+
 	private String sobrenome;
-	private int idade; 
-	
-	
+	private int idade;
 
 	public int getIdade() {
 		return idade;
@@ -32,10 +30,5 @@ public class Pessoa {
 	public void setSobrenome(String sobrenome) {
 		this.sobrenome = sobrenome;
 	}
-	
-	
-	
-	
-	
 
 }
